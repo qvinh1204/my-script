@@ -1,4 +1,4 @@
-Password = 'quocvinh'
+Password = 'quocvinh1204'
 Pass = gg.prompt({"🔒Vui lòng Nhập PASSWORD"}, {""}, {"text"})
 if not Pass then os.exit() end
 if Pass[1] == Password then
